@@ -1,0 +1,5 @@
+name: QCore
+version: '1.1.0'
+main: me.boost183.qcore.QCore
+api-version: '1.17'
+authors: [Boost183]
